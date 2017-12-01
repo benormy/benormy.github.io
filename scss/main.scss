@@ -265,27 +265,27 @@ header {
 
     .intro-container {
       padding: 0;
-      width: 400px;
+      width: 400px !important;
 
       p {
-        width: 400px;
+        width: 400px !important;
       }
 
       img {
         padding: 0;
-        width: 400px;
+        width: 400px !important;
       }
     }
   }
 
   .elements-container {
     p {
-      width: 400px;
-      text-align: left;
+      width: 400px !important;
+      text-align: left !important;
     }
 
     img {
-      width: 400px;
+      width: 400px !important;
     }
   }
 
@@ -294,13 +294,13 @@ header {
     padding: 0;
 
     .best-container {
-      width: 400px;
-      margin: 0 auto;
+      width: 400px !important;
+      margin: 0 auto !important;
 
       img {
-        float: none;
-        width: 400px;
-        padding: 0;
+        float: none !important;
+        width: 400px !important;
+        padding: 0 !important;
       }
     }
   }
