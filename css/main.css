@@ -75,7 +75,7 @@ p {
 
 header {
   height: 700px;
-  background-image: url(../media/header-image.jpg);
+  background-image: url(../img/header-image.jpg);
   background-position: 20% 10%;
   background-size: cover;
   display: flex;
